@@ -9,5 +9,4 @@ public class RecommendationSystemApplication {
     public static void main(String[] args) {
         SpringApplication.run(RecommendationSystemApplication.class, args);
     }
-
 }
